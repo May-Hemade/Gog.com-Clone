@@ -1,0 +1,126 @@
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  color: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  font-style: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+}
+body {
+  background-color: #d9d9d9;
+}
+
+.gog-logo {
+  width: 70px;
+}
+
+.nav {
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+  padding-bottom: 0.05rem;
+  margin: 8px;
+  color: #f2f4f6e6;
+}
+
+.jmb {
+  background-image: url("assets/img/carousel1.jpg");
+  height: 300px;
+  color: white;
+}
+
+.big-spots-header {
+  margin: 16 px auto;
+  width: calc(100 vw - 32 px);
+  max-width: 1096 px;
+}
+
+.section-title--with-border {
+  margin: 32 px 0 16 px;
+  border-bottom: 1 px solid var(--theme-section-separator);
+  height: 32 px;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 16px;
+  text-align: left;
+}
+
+.custom-section {
+  text-align: center;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.discount-icon {
+  height: 20px;
+  display: inline;
+}
+nav {
+  border-bottom: solid 1px grey;
+}
+
+.carousel-item-inner {
+  position: relative;
+  height: 350px;
+  width: 100%;
+}
+
+.carousel-image {
+  position: absolute;
+}
+
+.carousel-info {
+  position: absolute;
+  bottom: 0px;
+  color: white;
+}
+
+.card-img-small {
+  height: 100px;
+}
+
+.card-img-large {
+  height: 100%;
+}
+
+.b-top-gog {
+  border-top: 1px solid grey;
+}
+
+.b-bottom-gog {
+  border-bottom: 1px solid grey;
+}
+
+.card-height-full {
+  height: 100%;
+  margin: 0px;
+}
+
+td {
+  padding: 0px !important;
+  background: white !important;
+}
+
+.table-image {
+  height: 75px;
+  object-fit: cover;
+  opacity: 1;
+}
+
+a {
+  color: violet !important;
+}
+footer {
+  width: 100%;
+  left: 0;
+  bottom: 0;
+  padding: 0;
+  margin-bottom: 0;
+}
+.footer-1 {
+  background-color: black;
+}
